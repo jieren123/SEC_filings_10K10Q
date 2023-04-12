@@ -29,8 +29,8 @@ For text pre-processing,
 4. get root form 
 
 #### Data Label 
-* 10Q_Label Result 
+* 10Q_Label Result\ 
 ![alt text](https://github.com/jieren123/SEC_filings_10K10Q/blob/main/sec10kq_Label/10q-filingsSentimentDistribution.png "10Q-Filings Sentiment Distribution")
 
-* 10K_Label Result 
+* 10K_Label Result \
 ![alt text](https://github.com/jieren123/SEC_filings_10K10Q/blob/main/sec10kq_Label/10k-filingsSentimentDistribution.png "10K-Filings Sentiment Distribution")
