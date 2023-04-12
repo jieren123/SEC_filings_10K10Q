@@ -20,7 +20,8 @@ Please note that the dataset may reflect changes in the composition of the S&P 5
 
 (Source: FactSet)
 
-For the content cleanning, 
+For text pre-processing, 
 1. stopwords
 2. lowcase 
 3. remove the puncatuation
+4. get root form 
