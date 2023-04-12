@@ -16,4 +16,6 @@ Please note that the dataset may reflect changes in the composition of the S&P 5
 | Utilities                | 3%       |
 | REITs                    | 3%       |
 | Materials                | 2%       |
+
+
 (Source: FactSet)
