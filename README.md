@@ -30,8 +30,7 @@ For text pre-processing,
 
 #### Data Label 
 * 10Q - Label Result 
-![10Q-Filings Sentiment Distribution](/https://github.com/jieren123/SEC_filings_10K10Q/blob/main/sec10kq_Label/10q-filingsSentimentDistribution.png)
+![alt text](/https://github.com/jieren123/SEC_filings_10K10Q/blob/main/sec10kq_Label/10q-filingsSentimentDistribution.png "10Q-Filings Sentiment Distribution")
 
 * 10K - Label Result 
-![10K-Filings Sentiment Distribution](/https://github.com/jieren123/SEC_filings_10K10Q/blob/main/sec10kq_Label/10k-filingsSentimentDistribution.png)
-
+![alt text](/https://github.com/jieren123/SEC_filings_10K10Q/blob/main/sec10kq_Label/10k-filingsSentimentDistribution.png "10K-Filings Sentiment Distribution")
